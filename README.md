@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shadrunov
+- 👋 Hi, my name is Alex
+- :mortar_board: MIEM, HSE University, Moscow, studying [BA in cybersecurity](https://hse.ru/ba/is)
 - 📫 reach me via telegram: [@shadrunov](https://t.me/shadrunov)
 
 <!---
